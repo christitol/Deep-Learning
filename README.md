@@ -11,12 +11,4 @@ This project is part of MSc in AI Deep learning course. Purpose is to classify f
 ## Technologies
 For classifying images we used deep learning techniques and more specifically MLP and CNN networks
 	
-## Setup
-To run this project, we need to install the following libraries: 
-- pip install tensorflow
-- pip install itertools
-- pip install gc
-- pip install numpy
-- pip install matplotlib
-- pip install pandas
-- pip install sklearn
+
